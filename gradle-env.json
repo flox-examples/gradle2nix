@@ -26,7 +26,7 @@
           "urls": [
             "https://plugins.gradle.org/m2/com/fasterxml/oss-parent/41/oss-parent-41.pom"
           ],
-          "sha256": "af650fa4dd400bc5769320bcef08ed93813f349cabe8213d469acafbbd945d8a"
+          "sha256": "sha256-EZzJRiADtK1a1NJEyVzT/WLxPKQCEzDb520h3TniHBc="
         },
         {
           "id": {
@@ -56,7 +56,7 @@
           "urls": [
             "https://plugins.gradle.org/m2/com/fasterxml/jackson/jackson-bom/2.12.1/jackson-bom-2.12.1.pom"
           ],
-          "sha256": "083b20a4231bb0516d6e1a08248c9fbce473583a122a07fd2e0eadeff6908a38"
+          "sha256": "sha256-GPiJ/+1SEND52jbtwF4EeIWLAz1resqFiVvCO5gjhHk="
         },
         {
           "id": {
@@ -71,7 +71,7 @@
           "urls": [
             "https://plugins.gradle.org/m2/com/fasterxml/jackson/jackson-parent/2.12/jackson-parent-2.12.pom"
           ],
-          "sha256": "YqocFnmt4J8XPb8bbDLTXFXnWAAjj9XkjxOqQzfAh1s="
+          "sha256": "sha256-Z749r6r4zhcX56fefbkrpDPfkjtpekDJdDpUzJ/FNjc="
         },
         {
           "id": {
@@ -86,7 +86,7 @@
           "urls": [
             "https://plugins.gradle.org/m2/com/fasterxml/jackson/core/jackson-annotations/2.12.1/jackson-annotations-2.12.1.jar"
           ],
-          "sha256": "203cefdfa6c81e6aa84e11f292f29ca97344a3c3bc0293abea065cd837592873"
+          "sha256": "sha256-IDzv36bIHmqoThHykvKcqXNEo8O8ApOr6gZc2DdZKHM="
         },
         {
           "id": {
@@ -116,7 +116,7 @@
           "urls": [
             "https://plugins.gradle.org/m2/com/fasterxml/jackson/core/jackson-annotations/2.12.1/jackson-annotations-2.12.1.pom"
           ],
-          "sha256": "3e0c5721fb26be732ccdf13db1c59dfeee0a6db269ebcc7507ead1c763a6108b"
+          "sha256": "sha256-RhgflrnEWKJ4faudhXlV8pu/ETuyfpSqrXPLnWVLAgw="
         },
         {
           "id": {
@@ -131,7 +131,7 @@
           "urls": [
             "https://plugins.gradle.org/m2/com/fasterxml/jackson/core/jackson-core/2.12.1/jackson-core-2.12.1.jar"
           ],
-          "sha256": "cc899cb6eae0c80b87d590eea86528797369cc4feb7b79463207d6bb18f0c257"
+          "sha256": "sha256-zImcturgyAuH1ZDuqGUoeXNpzE/re3lGMgfWuxjwwlc="
         },
         {
           "id": {
@@ -161,7 +161,7 @@
           "urls": [
             "https://plugins.gradle.org/m2/com/fasterxml/jackson/core/jackson-core/2.12.1/jackson-core-2.12.1.pom"
           ],
-          "sha256": "4d09b42b2adcfe5ca73f541e42d1e36a8bf483594df09c43ba8d31eb67e04626"
+          "sha256": "sha256-MiQwH3vFQHvbxKr25jA3X5dF1ZJbwKE3bqdic77MQFI="
         },
         {
           "id": {
@@ -206,7 +206,7 @@
           "urls": [
             "https://plugins.gradle.org/m2/com/fasterxml/jackson/core/jackson-databind/2.12.1/jackson-databind-2.12.1.pom"
           ],
-          "sha256": "98926399d5072408c20cd63063fbe29cf0923fc5061a3a56d6987f4dff6fa223"
+          "sha256": "sha256-jm3LeJn4apksj7k877iQoVDoKXhAbaPbjzx1aX4oyO4="
         },
         {
           "id": {
@@ -521,7 +521,7 @@
           "urls": [
             "https://plugins.gradle.org/m2/org/apache/apache/21/apache-21.pom"
           ],
-          "sha256": "af10c108da014f17cafac7b52b2b4b5a3a1c18265fa2af97a325d9143537b380"
+          "sha256": "sha256-aLApxGWS9jvnbQK6/Z4XWhWxAiNg4DfTvDo3sCt0D34="
         },
         {
           "id": {
@@ -626,7 +626,7 @@
           "urls": [
             "https://plugins.gradle.org/m2/org/apache/logging/log4j/log4j/2.13.3/log4j-2.13.3.pom"
           ],
-          "sha256": "674f1fa5165b9d48935f4103d9316fe5b161dff6f9be904a6edb9baa33da4480"
+          "sha256": "sha256-Z4jp5LCG3ySTbdM25Zq4/gEF2WmdAIPTr5kfz1hdFpU="
         },
         {
           "id": {
@@ -4493,7 +4493,7 @@
             "https://jcenter.bintray.com/com/fasterxml/jackson/jackson-parent/2.6.1/jackson-parent-2.6.1.pom",
             "https://repo.gradle.org/gradle/libs-releases/com/fasterxml/jackson/jackson-parent/2.6.1/jackson-parent-2.6.1.pom"
           ],
-          "sha256": "b4e97a2a9b620bd2665bcf8322665a69c4ee8f8c6e41acc3a60bde9fc5ab6cab"
+          "sha256": "sha256-tOl6KptiC9JmW8+DImZaacTuj4xuQazDpgven8WrbKs="
         },
         {
           "id": {
