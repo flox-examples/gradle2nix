@@ -26,7 +26,7 @@
           "urls": [
             "https://plugins.gradle.org/m2/com/fasterxml/oss-parent/41/oss-parent-41.pom"
           ],
-          "sha256": "af650fa4dd400bc5769320bcef08ed93813f349cabe8213d469acafbbd945d8a"
+          "sha256": "sha256-EZzJRiADtK1a1NJEyVzT/WLxPKQCEzDb520h3TniHBc="
         },
         {
           "id": {
@@ -626,7 +626,7 @@
           "urls": [
             "https://plugins.gradle.org/m2/org/apache/logging/log4j/log4j/2.13.3/log4j-2.13.3.pom"
           ],
-          "sha256": "674f1fa5165b9d48935f4103d9316fe5b161dff6f9be904a6edb9baa33da4480"
+          "sha256": "sha256-Z4jp5LCG3ySTbdM25Zq4/gEF2WmdAIPTr5kfz1hdFpU="
         },
         {
           "id": {
